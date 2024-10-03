@@ -30,3 +30,4 @@ D:\Proyectos\dotnet\DatingApp\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore
 D:\Proyectos\dotnet\DatingApp\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Proyectos\dotnet\DatingApp\PizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Proyectos\dotnet\DatingApp\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
+D:\Proyectos\dotnet\DatingApp\PizzaStore\obj\Debug\net8.0\PizzaStore.sourcelink.json
