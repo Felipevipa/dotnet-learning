@@ -1,0 +1,15 @@
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\bin\Debug\net8.0\TesProjectConsole.exe
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\bin\Debug\net8.0\TesProjectConsole.deps.json
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\bin\Debug\net8.0\TesProjectConsole.runtimeconfig.json
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\bin\Debug\net8.0\TesProjectConsole.dll
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\bin\Debug\net8.0\TesProjectConsole.pdb
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\TesProjectConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\TesProjectConsole.AssemblyInfoInputs.cache
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\TesProjectConsole.AssemblyInfo.cs
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\TesProjectConsole.csproj.CoreCompileInputs.cache
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\TesProjectConsole.sourcelink.json
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\TesProjectConsole.dll
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\refint\TesProjectConsole.dll
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\TesProjectConsole.pdb
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\TesProjectConsole.genruntimeconfig.cache
+D:\Proyectos\dotnet\DatingApp\TesProjectConsole\obj\Debug\net8.0\ref\TesProjectConsole.dll
