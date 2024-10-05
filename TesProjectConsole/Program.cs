@@ -1,5 +1,19 @@
-﻿Console.WriteLine("Hello C#!");
+﻿string permission = "Admin|Manager";
+int level = 55;
 
-Random dice = new Random();
-int roll = dice.Next(1, 7);
-Console.WriteLine(roll);
+if (permission.Contains("Admin") && level > 55)
+{
+    Console.WriteLine("Welcome, Super Admin user.");
+}
+else if (permission.Contains("Admin") && level <= 55)
+{
+    Console.WriteLine("Welcome, Admin user.");
+}
+else if (permission.Contains("Manager") && level > 20)
+{
+    Console.WriteLine("Contact an Admin for access.");
+}
+else
+{   
+    Console.WriteLine("You do not have sufficient privileges.");
+}
