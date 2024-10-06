@@ -1,19 +1,8 @@
-﻿string permission = "Admin|Manager";
-int level = 55;
+﻿string[] pallets = { "B14", "A11", "B12", "A13" };
 
-if (permission.Contains("Admin") && level > 55)
+Console.WriteLine("Sorted...");
+Array.Sort(pallets);
+foreach (var pallet in pallets)
 {
-    Console.WriteLine("Welcome, Super Admin user.");
-}
-else if (permission.Contains("Admin") && level <= 55)
-{
-    Console.WriteLine("Welcome, Admin user.");
-}
-else if (permission.Contains("Manager") && level > 20)
-{
-    Console.WriteLine("Contact an Admin for access.");
-}
-else
-{   
-    Console.WriteLine("You do not have sufficient privileges.");
+    Console.WriteLine($"-- {pallet}");
 }
