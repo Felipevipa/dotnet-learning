@@ -1,0 +1,15 @@
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.exe
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.dll
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.pdb
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.dll
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.pdb
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Proyectos\dotnet\DatingApp\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\ref\Starter.dll
