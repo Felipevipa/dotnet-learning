@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesProjectConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b16395c1e51d28f3026cb81c207007e9652fe14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b92e28beab255cca6cec9fcfb61c5a2784b3f2b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesProjectConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesProjectConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

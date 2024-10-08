@@ -159,3 +159,28 @@
 //     Console.WriteLine(message.Substring(openingPosition, length));
 // }
 
+decimal number = 123.456879m;
+
+Console.WriteLine(string.Format("{0:F2}", number));
+Console.WriteLine(number.ToString("F2"));
+
+int x = 10;
+int y = 3;
+int result = x % y;
+
+Console.WriteLine(result);
+
+if (x != 0) {
+    Console.WriteLine((!(true && false)));
+}
+
+int[] numbers = { 1, 2, 3, 4, 5 };
+foreach (int num in numbers) {
+    Console.WriteLine(num);
+}
+
+public int MultiplyNumbers(int num1, int num2) {
+    return num1 * num2;
+}
+
+Console.WriteLine(MultiplyNumbers(3,4));
