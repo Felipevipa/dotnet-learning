@@ -1,0 +1,15 @@
+D:\Proyectos\dotnet\DatingApp\Methods\bin\Debug\net8.0\Methods.exe
+D:\Proyectos\dotnet\DatingApp\Methods\bin\Debug\net8.0\Methods.deps.json
+D:\Proyectos\dotnet\DatingApp\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+D:\Proyectos\dotnet\DatingApp\Methods\bin\Debug\net8.0\Methods.dll
+D:\Proyectos\dotnet\DatingApp\Methods\bin\Debug\net8.0\Methods.pdb
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\Methods.sourcelink.json
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\Methods.dll
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\refint\Methods.dll
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\Methods.pdb
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+D:\Proyectos\dotnet\DatingApp\Methods\obj\Debug\net8.0\ref\Methods.dll
